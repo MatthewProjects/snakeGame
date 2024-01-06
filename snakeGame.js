@@ -3,7 +3,8 @@ console.log("Hello from the web page");
 console.log("This is the first instruction of our game program!");
 
 var firstName = "Matt";
-console.log("Hello, " + firstName + " , Welcome to the snake game");
+console.log("Hello, " + firstName + ", Welcome to the snake game" + "!!!");
+
 
 var gameRow = [0, 0, 0, 0, 0, 1, 0, 0, 0];
 for (var index = 0; index < gameRow.length; index++) {
